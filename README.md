@@ -1,2 +1,5 @@
-# MLOps-Studies
-Repository with some code about MLOps applications
+# MLOps-Basic-Application
+Repository with some code about MLOps application with code, some tools used:
+* MLFlow
+* FastAPI
+* Evidently
